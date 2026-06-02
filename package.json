@@ -1,0 +1,10 @@
+{
+  "name": "js-game-template",
+  "version": "1.0.0",
+  "dependencies": {
+    "kaboom": "latest"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
